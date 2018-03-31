@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -Wall -g -ggdb  -rdynamic CMakeFiles/TicTacToe.dir/Board.cpp.o CMakeFiles/TicTacToe.dir/Test.cpp.o CMakeFiles/TicTacToe.dir/main.cpp.o  -o TicTacToe 

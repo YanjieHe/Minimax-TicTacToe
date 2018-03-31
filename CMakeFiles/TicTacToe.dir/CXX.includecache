@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jasonhe/Documents/MyCode/CPP/VimProjects/TicTacToe/Board.cpp
+Board.hpp
+/home/jasonhe/Documents/MyCode/CPP/VimProjects/TicTacToe/Board.hpp
+cmath
+-
+iostream
+-
+
+/home/jasonhe/Documents/MyCode/CPP/VimProjects/TicTacToe/Board.hpp
+vector
+-
+
+/home/jasonhe/Documents/MyCode/CPP/VimProjects/TicTacToe/Test.cpp
+Test.hpp
+/home/jasonhe/Documents/MyCode/CPP/VimProjects/TicTacToe/Test.hpp
+iostream
+-
+Board.hpp
+/home/jasonhe/Documents/MyCode/CPP/VimProjects/TicTacToe/Board.hpp
+
+/home/jasonhe/Documents/MyCode/CPP/VimProjects/TicTacToe/Test.hpp
+
+/home/jasonhe/Documents/MyCode/CPP/VimProjects/TicTacToe/main.cpp
+iostream
+-
+Board.hpp
+/home/jasonhe/Documents/MyCode/CPP/VimProjects/TicTacToe/Board.hpp
+Test.hpp
+/home/jasonhe/Documents/MyCode/CPP/VimProjects/TicTacToe/Test.hpp
+
